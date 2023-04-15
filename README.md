@@ -1,8 +1,12 @@
-# TLoL-LLM
+# TLoL - Large Language Model Integration
 
 ## About
 
 TLoL (Large Language Model) - League of Legends LLM Module (Integrates LLMs for Game Analysis and Game Playing)
+
+## Directory Breakdown
+
+- `llm.ipynb`: Initial LLM experiments on data
 
 ## Dataset
 

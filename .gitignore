@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore Worlds 2022 Game 5 file
+ESPORTSTMNT02-3080905(old).db
